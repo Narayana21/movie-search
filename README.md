@@ -1,5 +1,5 @@
 # This project is deployed on
-https://narayana21.github.io/movie-search/
+https://moviedetailsprovider.netlify.app/
 
 
 
